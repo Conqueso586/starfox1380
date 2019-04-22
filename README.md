@@ -30,23 +30,23 @@ Once you've added some new code and are comfortable with the features you've add
 
 You must write a pull request from github itself. You can start your first PR from github desktop.
 
-![Screenshot](./create_pull_request "Create PR")
+![Screenshot](./create_pull_request.png "Create PR")
 
 This will open a web browser to the project git repository where you will create the pull request. Please write the details of your changes in the comment box provided. Below you will see that the number of commits as well as the changed files are shown. Once you are ready click the green "Create Pull Request" button.
 
-![Screenshot](./open_pull_request "Open PR"
+![Screenshot](./open_pull_request.png "Open PR"
 
 Once your pull request is created. It will be posted for review by one of our admins.
 
-![Screenshot](./added_pull_request "Added PR")
+![Screenshot](./added_pull_request.png "Added PR")
 
 You can track all the open pull requests from your Github Desktop
 
-![Screenshot](./status_pull_request "Status PR"
+![Screenshot](./status_pull_request.png "Status PR"
 
 When your code is reviewed and given the green light, it will be merged with the desired branch.
 
-![Screenshot](./merged_pull_request "Merged PR"
+![Screenshot](./merged_pull_request.png "Merged PR"
 
 Their are a bunch of great features that come along with using pull requests. Go ahead and play around with them!
 
