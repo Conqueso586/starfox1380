@@ -6,7 +6,7 @@ Issues will be posted at https://trello.com/b/Imqj66By/starfox1380 for now.
 # Submittion process
 
 	Forking the repo - **Requires a github account**
-	![Screenshot](https://github.com/Conqueso586/starfox1380/blob/master/fork_img.png "Optional Title")
+	![Screenshot](./fork_img.png "Optional Title")
 	This will add a copy of the repository to your github account. You will make changes to your fork 
    
 ## Creating a branch for your work
